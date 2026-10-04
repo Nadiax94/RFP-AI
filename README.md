@@ -1,6 +1,6 @@
 # RFP AI Extractor & Model Evaluation
 
-## Overvie
+## Overview
 RFP AI is a project focused on structured information extraction from Request for Proposal (RFP) documents.
 It evaluates and compares different AI models using a consistent set of five RFP documents and 24 target fields
 
@@ -37,7 +37,6 @@ RFP Document → Text Processing → Chunking → AI Extraction → Validation �
 
 ## User Interface
 The interface allows users to upload RFP documents, extract the required information, and review model evaluation results.
-(https://rfp-demo-kyieztneqv8xhhfdugxefh.streamlit.app/)
 
 
 ## RFP Extraction
@@ -61,3 +60,5 @@ The interface allows users to upload RFP documents, extract the required informa
 - Docker
 - Kubernetes
 - OpenAI API
+- Grafana
+- Streamlit
