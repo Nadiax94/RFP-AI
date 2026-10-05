@@ -54,6 +54,10 @@ The interface allows users to upload RFP documents, extract the required informa
 ## Detailed RFP Analsis
 <img width="519" height="325" alt="Screenshot 2026-09-27 134232" src="https://github.com/user-attachments/assets/9114b030-9ea0-4a32-a105-d71b66e6ad45" />
 
+
+https://rfp-demo-kyieztneqv8xhhfdugxefh.streamlit.app/
+
+
 ## Technology Stack
 - Python
 - vLLM
